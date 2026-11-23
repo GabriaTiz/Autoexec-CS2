@@ -1,4 +1,4 @@
-<h1><b>GabriaTz Autoexec CS2</b></h1><br>
+<h1><b>GabriaTiz Autoexec CS2</b></h1><br>
 
 <h2>minhas configuraçoes</h2>
 
