@@ -5,8 +5,8 @@
 
 <p>
 Colocar na pasta : C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg <br>
-e rodar no console do jogo o comando : exec autoexec.cfg <br>
-copiar e usar os comandos de opções de inicialização (Launch options) contido no arquivo Autoexec.cfg
+e rodar no console do jogo o comando : exec Autoexec.cfg <br>
+copiar e usar os comandos de opções de inicialização (Launch options) contidos no arquivo Autoexec.cfg
 </p>
 <hr>
 
